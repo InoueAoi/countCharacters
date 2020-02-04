@@ -1,3 +1,4 @@
+/*Copyright InoueAoi 2020*/
 body {
   background-image: url('background.png');
   font-family: "TsukuARdGothic-Regular", serif;
@@ -19,11 +20,6 @@ div {
   padding-bottom: 2em;
   width: 864px;
 }
-form {
-  display: block;
-  margin: auto;
-  width: 24em;
-}
 h1 {
   font-size: 40px;
 }
@@ -36,17 +32,6 @@ h4 {
   background-color: maroon;
   color: lightcyan;
   font-size: 1em;
-}
-input[type = "text"] {
-  font-size: 12px;
-  height: 18px;
-  margin-left: 1em;
-  margin-right: 1em;
-  width: 20em;
-}
-label {
-  display: block;
-  text-align: left;
 }
 section {
   display: inline-block;

@@ -1,3 +1,4 @@
+/**/
 'use strict';
 const doClear = document.getElementById('do-reset'),
       doCount = document.getElementById('do-count'),
